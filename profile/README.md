@@ -13,3 +13,6 @@
   - [Git Branch, PR](https://www.notion.so/circlejung/Git-Branch-PR-2fe32fec3d6f8050b218e5aa0788d794?source=copy_link)
   - [Git Commit Message](https://www.notion.so/circlejung/Git-Commit-message-2fd32fec3d6f800289aaecbfc0772cec?source=copy_link)
   - [Github Project kanban issue template](https://www.notion.so/circlejung/Github-Project-kanban-issue-template-32f32fec3d6f80638d63f7e1e1031a36?source=copy_link)
+- **Template**
+  - [WBS](https://drive.google.com/uc?export=download&id=1FfQzStVbjjdk7LYHCa6upszEaEL8jyoq)
+  - [Database Specification](https://docs.google.com/uc?export=download&id=1lgch5WfG4q8cFyzf9Fi6Mt7yjRCBD-5z)
