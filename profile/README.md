@@ -20,3 +20,4 @@
   - [Rest API](https://docs.google.com/uc?export=download&id=1uqJ5GC8Q0jnM2TZMRVzN4CYZVZnGssHI)
   - [Test Case](https://docs.google.com/uc?export=download&id=18Iwxib0xd2Kdy3DiKXLWj_ZMDSGSsQu5)
   - [Repository Readme](../template/readme_template.md)
+  - [Setup Guide](https://www.notion.so/circlejung/System-Setup-Guide-34b32fec3d6f808c9b36f133d8bb787b?source=copy_link)
